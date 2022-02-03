@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="debugger-app-2.0.22">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/debugger-app-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/fontbox-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/pdfbox-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/pdfbox-app-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/pdfbox-debugger-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/pdfbox-tools-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/preflight-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/preflight-app-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Development/Library/PDFBox/xmpbox-2.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
